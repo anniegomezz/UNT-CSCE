@@ -1,0 +1,18 @@
+﻿This was my third and final project for my CSCE 1040 course at UNT (2022). It was written in C++, and I compiled/coded this project using the UNT CS servers (accessed through my Mac terminal).
+
+
+The purpose of the project was to expand the pseudo-code we made in our second homework assignment, where we created a library management system that would store the information of patrons, books, and loans for the library. There are classes for each book, patron, and loan entity, as well as classes for collections of each entity. No inheritance was used (my professor did not allow for inheritance to be used).
+
+
+In total there are 6 .cpp class files, 6 .h (header) files, 6 .txt input files, 6 .txt output files, some test files for each class, one main .cpp file, and finally a Makefile. This project contains the first Makefile I ever made.
+
+
+The main .cpp has a menu that allows for the user to access menus for actions to take based on each class. Everything except the loans classes were completed.
+
+
+
+
+This file will be updated later once I add more functionality. However, everything except the loan class is fully functional.
+
+
+I am looking to implement ctime functions as well as more class hierarchy in the updates.
